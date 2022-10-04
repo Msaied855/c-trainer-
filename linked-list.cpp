@@ -8,7 +8,7 @@ struct node
 node *head = NULL;
 // insert value in back
 void inserNode(int value);
-// console the list to the log
+// print the result 
 void displayNode();
 // delete certain value
 void deletenode(int value);
